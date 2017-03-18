@@ -24,5 +24,9 @@ They clarfiy the output from git branch --graph as it doesn't return branch labe
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Two Versions with desirable features can be merged into one document.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Pro's are that it same a lot of time, and when it can't it highlights the conflicts in a manner that makes them easy to find and resolve.
